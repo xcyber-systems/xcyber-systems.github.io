@@ -4,15 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+xcyber.systems is at the forefront of redefining the digital landscape through the innovative application of AI agents and sophisticated autonomous systems. We are building the future where intelligent entities seamlessly integrate with human intent, transforming complex challenges into streamlined, value-driven solutions. Our mission is to empower individuals and organizations with cutting-edge AI that not only understands but anticipates needs, fostering a new era of efficiency, creativity, and control.
