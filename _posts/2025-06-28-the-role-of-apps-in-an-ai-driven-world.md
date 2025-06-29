@@ -37,4 +37,4 @@ This is the future: **Value-as-a-Service (VaaS)**. You're no longer just buying 
 
 ---
 
-*For a more technical perspective, read the [Scientist's Take]({% post_url 2025-06-29-autonomous-apps-scientist %}).*
+*For a more technical perspective, read the [Scientist's Take]({% post_url autonomous-apps-scientist %}).*

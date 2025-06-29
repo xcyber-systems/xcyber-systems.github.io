@@ -35,4 +35,4 @@ This model moves us from **"Software as a Service" (SaaS)** to **"Value as a Ser
 
 ---
 
-*For a different perspective on this topic, read the [Communicator's Take]({% post_url 2025-06-28-the-role-of-apps-in-an-ai-driven-world %}).*
+*For a different perspective on this topic, read the [Communicator's Take]({% post_url the-role-of-apps-in-an-ai-driven-world %}).*
