@@ -20,8 +20,8 @@
 
 title: xcyber systems
 email: steve.george.ie@outlook.com
-description: >- # this means to ignore newlines until "baseurl:"
-  xcyber.systems is at the forefront of redefining the digital landscape through the innovative application of AI agents and sophisticated autonomous systems. We are building the future where intelligent entities seamlessly integrate with human intent, transforming complex challenges into streamlined, value-driven solutions. Our mission is to empower individuals and organizations with cutting-edge AI that not only understands but anticipates needs, fostering a new era of efficiency, creativity, and control.
+description: >-
+  Abstraction is all you need.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
